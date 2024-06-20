@@ -7,7 +7,7 @@ Este repositório contém os documentos e materiais essenciais para o trabalho d
 - Operacionalidade da Implementação
 - Protótipo de Alta Fidelidade
 
-O código-fonte do projeto está disponível no seguinte repositório: [projetotcc2-sem-docker](https://github.com/Brunoreis10/projetotcc2-sem-docker).
+O código-fonte do projeto está disponível no seguinte repositório: [ProjetoTCC2-Codigo_Fonte](https://github.com/Brunoreis10/ProjetoTCC2-Codigo_Fonte).
 
 ## Estrutura do Repositório
 
